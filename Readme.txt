@@ -1,0 +1,1 @@
+Pixel art generator website created using Javascript, HTML and CSS
